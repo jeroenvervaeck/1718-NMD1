@@ -1,0 +1,17 @@
+html{
+    margin: 6%;
+    background-color: azure;
+    color: darkcyan;
+    text-align: center;
+}
+img{
+    border-style: solid;
+    border-width: 5px;
+}
+h1, h2{
+    font-family: Arial, sans-serif;
+}
+.groep1{
+    display: flex;
+    justify-content: space-around;
+}
